@@ -16,7 +16,7 @@ Dépose-les dans `rushes/` (noms : `plan_debut.mp4`, `ecran.mp4`, `plan_fin.mp4`
 ./monter_reel.sh rushes/plan_debut.mp4 rushes/ecran.mp4 rushes/plan_fin.mp4 reel.mp4
 ```
 
-Résultat : `reel.mp4`, 1080x1920, H.264, ~27 s (3,5 s début + 17 s écran avec 4 textes + 3,5 s fin + 3 s carton « Votre site, c'est le prochain ? Lien en bio · mccreationweb.fr »), piste audio muette.
+Résultat : `reel.mp4`, 1080x1920, H.264, ~27 s (3,5 s début + 17 s écran avec 4 textes + 3,5 s fin + 3 s carton « Votre site, c'est le prochain ? · mccreationweb.fr »), piste audio muette.
 
 Ensuite : pousser `reel.mp4` ici, puis créer le brouillon Metricool (Instagram REEL + Facebook REEL, titre Facebook « De la maquette à la mise en ligne, en accéléré », couverture `couverture.jpg`, jeudi 12 novembre 18 h 30, légende du doc de stratégie, post 5).
 
