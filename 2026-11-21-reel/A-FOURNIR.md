@@ -35,7 +35,7 @@ FAUX1=3.2 FAUX3=2.5 ./monter_reel.sh   # pour décaler le tampon « FAUX » d'un
 
 Résultat : `reel.mp4`, 1080x1920, H.264, 30 i/s, ta voix normalisée, sans musique, carton de fin « Votre site, c'est le prochain ? · mccreationweb.fr ». Script testé le 9 novembre avec des vidéos factices (paysage, portrait, avec et sans son).
 
-Ensuite : pousser `reel.mp4` ici, puis compléter le brouillon Metricool du samedi 21 novembre à 12 h 15 (Instagram REEL, Facebook REEL titre « 3 idées reçues sur Google », TikTok), couverture `couverture.jpg`.
+Ensuite : pousser `reel.mp4` ici, puis créer le brouillon Metricool du samedi 21 novembre à 12 h 15 (Metricool refuse un brouillon de Reel sans vidéo : il n'existe donc pas encore) (Instagram REEL, Facebook REEL titre « 3 idées reçues sur Google », TikTok), couverture `couverture.jpg`.
 
 ## Fichiers
 
